@@ -31,5 +31,11 @@ Developed an AI-powered healthcare platform designed to assist in the early dete
 
 This project strengthened my understanding of end-to-end AI application development, including data preprocessing, model training, deep learning, web integration, deployment, and real-world healthcare applications. It also involved preparing a complete research paper covering literature review, methodology, system architecture, experimental results, and future scope.
 
+<img width="1289" height="796" alt="Home Page" src="https://github.com/user-attachments/assets/cb689dfc-9e52-4d49-8d4a-f1c315b32278" />
+<img width="1166" height="899" alt="Diabetes yes" src="https://github.com/user-attachments/assets/e82c791e-e1a6-47ae-8ace-9b09ea6ab706" />
+<img width="1177" height="887" alt="Diabetes no" src="https://github.com/user-attachments/assets/070c9508-4161-4102-89a3-b92963506910" />
+<img width="1150" height="862" alt="Pneumonia yes" src="https://github.com/user-attachments/assets/5cd5cb56-4167-4dc0-959a-f134eaf6dbc0" />
+<img width="1150" height="884" alt="pneumonia no" src="https://github.com/user-attachments/assets/e42b9c69-5810-4acc-8868-6a6d0d6d1ef3" />
 <img width="1053" height="882" alt="heart disease yes" src="https://github.com/user-attachments/assets/d4830bdd-9335-4801-af4b-67f17e1477b0" />
+<img width="1048" height="903" alt="heart disease no" src="https://github.com/user-attachments/assets/211272d6-412e-466d-9202-dbd14d3d679b" />
 
