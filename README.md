@@ -30,3 +30,6 @@ Developed an AI-powered healthcare platform designed to assist in the early dete
 * Parkinson's Disease Prediction Accuracy: **87.2%**
 
 This project strengthened my understanding of end-to-end AI application development, including data preprocessing, model training, deep learning, web integration, deployment, and real-world healthcare applications. It also involved preparing a complete research paper covering literature review, methodology, system architecture, experimental results, and future scope.
+
+<img width="1053" height="882" alt="heart disease yes" src="https://github.com/user-attachments/assets/d4830bdd-9335-4801-af4b-67f17e1477b0" />
+
