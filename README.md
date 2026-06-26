@@ -16,6 +16,7 @@ Developed an AI-powered healthcare platform designed to assist in the early dete
 
 ### Project Highlights
 
+* Live link: https://ai-ml-based-health-diagnosis-vpxp-ag7j9jcfv-rico24251s-projects.vercel.app/
 * Built and trained Machine Learning models for diabetes, heart disease, and Parkinson's prediction using clinical datasets.
 * Developed a Convolutional Neural Network (CNN) for pneumonia detection from chest X-ray images with image preprocessing and data augmentation techniques.
 * Performed data cleaning, preprocessing, feature scaling, and model evaluation to improve prediction performance.
