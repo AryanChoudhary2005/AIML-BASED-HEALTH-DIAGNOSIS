@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+Pillow
+google-genai
+groq
+scikit-learn
+numpy
+pandas
+librosa
+soundfile
+pydub
+sqlalchemy
+pymysql
